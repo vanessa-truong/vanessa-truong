@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Vanessa Truong</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5122AQFUD_lQiJAAHA/feedshare-shrink_2048_1536/0/1587462550906?e=2147483647&v=beta&t=wqSCHv_uboRXEdIntjNe6CF-gENURhg8hi7vsDtQ09w">
