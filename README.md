@@ -1,13 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Vanessa Truong</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="left">Hi! 👋, I'm Vanessa Truong</h1>
+<h4 align="left">A passionate frontend developer from Germany</h4>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5122AQFUD_lQiJAAHA/feedshare-shrink_2048_1536/0/1587462550906?e=2147483647&v=beta&t=wqSCHv_uboRXEdIntjNe6CF-gENURhg8hi7vsDtQ09w">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-truong&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-truong" /> </p>
-
-- 🌱 I’m currently learning **ReactJS, JS, CSS, HTML & more**
-
-- 📫 How to reach me **truong.vanessa94@gmail.com**
+  🌱 I’m currently learning ReactJS, JS, CSS, HTML & more
+  
+   📫 How to reach me: truovane@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
