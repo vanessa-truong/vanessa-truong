@@ -3,7 +3,12 @@
 
 
 ### Glad to see you here!  
-My name is Vanessa Truong, I'm a junior web developer and I'm constantly working on my programming skills.   
+My name is Vanessa Truong, I'm a junior web developer and I'm constantly working on my programming skills.  
+
+<br>
+
+
+
   
 
 <a href="https://github.com/vanessa-truong" target="_blank">
@@ -21,10 +26,11 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
   
 
 <br/>  
+<br>
+<br>
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+ <table border=0><tr border=0><td valign="top" width="50%" border= "none">
 
 
 
@@ -41,7 +47,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 - ⚡ Fun fact: I'm a foodlover and I google everything.  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" border="none">
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="center" style="width: 100%" />
@@ -53,7 +59,8 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 <br/>  
 
 
-## Languages and Tools  
+<br>
+<br>
 
 
 ### Skillset  
@@ -71,6 +78,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+ 
 </div>  
 
 <br/>  
