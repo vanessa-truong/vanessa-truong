@@ -36,7 +36,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 - 🌱 I’m currently learning node.js, express.js, mongo.db & postman.  
   
 
-- ❓ Ask me about anything.  
+- 📫 How to reach me: truovane@gmail.com
   
 
 - ⚡ Fun fact: I'm a foodlover and I google everything.  
