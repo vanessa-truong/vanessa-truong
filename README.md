@@ -17,9 +17,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 <a href="https://twitter.com/TruongVanessa94" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_banno" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
   
 
 <br/>  
