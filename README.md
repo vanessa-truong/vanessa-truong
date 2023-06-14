@@ -25,7 +25,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 
 
 # About Me ✨
-<table><tr><td valign="top" width="50%" border-color: "transparent">
+<table style="border-collapse: collapse;border-style:hidden;><tr><td valign="top" width="50%" >
   
  <br>
   
