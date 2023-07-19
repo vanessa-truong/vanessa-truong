@@ -23,8 +23,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 
 # ✨ About Me: 
 
-  
- <br>
+ 
   
 - 🔭 I am currently attending a bootcamp to acquire programming skills!  
   
