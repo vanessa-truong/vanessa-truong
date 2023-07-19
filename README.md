@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-truong&label=Profile%20views&color=73ce03&style=flat" alt="vanessa-truong" /> </p>
 # Hi there! 👋  
   
 
