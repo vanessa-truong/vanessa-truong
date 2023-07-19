@@ -3,6 +3,8 @@
  # Hi there! 👋  
 ### Glad to see you here!  
 My name is Vanessa Truong, I'm a junior web developer and I'm constantly working on my programming skills.   
+
+ Dont´t forget to checkout <a href="https://github.com/stars/vanessa-truong/lists/myPortfolio">My Portfolio</a>. 
   
 
 <a href="https://github.com/vanessa-truong" target="_blank">
