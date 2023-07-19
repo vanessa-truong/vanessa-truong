@@ -7,9 +7,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
  Dont´t forget to checkout <a href="https://github.com/stars/vanessa-truong/lists/Portfolio">My Portfolio</a>. 
   
 
-<a href="https://github.com/vanessa-truong" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://linkedin.com/in/truong-vanessa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
