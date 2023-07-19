@@ -1,9 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-truong&label=Profile%20views&color=73ce03&style=flat" alt="vanessa-truong" /> </p>
-# Hi there! 👋  
-  
 
-
-
+ # Hi there! 👋  
 ### Glad to see you here!  
 My name is Vanessa Truong, I'm a junior web developer and I'm constantly working on my programming skills.   
   
