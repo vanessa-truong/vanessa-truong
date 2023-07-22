@@ -28,7 +28,7 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 - 🔭 I am finished a fullstack bootcamp to acquire programming skills!  
   
 
-- 🌱 I’m currently learning Typescript.  
+- 🌱 I am currently deepening my knowledge in HTML, CSS and JavaScript | React to build clean code and responsive websites.
   
 
 - 📫 How to reach me: truovane@gmail.com
