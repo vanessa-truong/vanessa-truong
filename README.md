@@ -25,10 +25,10 @@ My name is Vanessa Truong, I'm a junior web developer and I'm constantly working
 
  
   
-- 🔭 I am currently attending a bootcamp to acquire programming skills!  
+- 🔭 I am finished a bootcamp to acquire programming skills!  
   
 
-- 🌱 I’m currently learning node.js, express.js, mongo.db & postman.  
+- 🌱 I’m currently learning Typescript.  
   
 
 - 📫 How to reach me: truovane@gmail.com
